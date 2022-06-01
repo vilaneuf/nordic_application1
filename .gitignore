@@ -5,5 +5,4 @@ nrfxlib/
 modules/
 bootloader/
 mbedtls/
-.west/
 */build/
