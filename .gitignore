@@ -1,0 +1,9 @@
+zephyr/
+tools/
+test/
+nrfxlib/
+modules/
+bootloader/
+mbedtls/
+.west/
+*/build/
